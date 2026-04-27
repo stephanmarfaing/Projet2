@@ -1,7 +1,7 @@
 # Projet2
 fichiers du projet numéro 2
 
-Avant l'utilisation du script, utiliser un environnement virtuel avec venv à travers un terminal.
+Avant l'utilisation du script nommé ETL.py, utiliser un environnement virtuel avec venv à travers un terminal.
 
 Installer le fichier requirements.txt avec : "pip install -r requirements.txt"
 
