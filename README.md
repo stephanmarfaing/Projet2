@@ -1,6 +1,6 @@
 # Projet2
 fichiers du projet numéro 2
-Avant l'utilisation du script, utiliser ou non un environnement virtuel.
+Avant l'utilisation du script, utiliser un environnement virtuel avec venv.
 Installer le fichier requirements.txt avec : pip install -r requirements.txt
 Ensuite lancer le script.
 Ce script est détaillé et notifié grâce à des # tout le long des lignes de code.
