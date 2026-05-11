@@ -21,8 +21,4 @@ Il va aussi créer un dossier "images" contenant toutes les images de livres dis
 
 Si des livres s'ajoutent et créent de nouvelles pages, le script fonctionnera également.
 
-Script Bonus : Permet de récupérer une catégorie sélectionnée avec ses images incluses afin d'alléger le process.
 
-Au lancement, le script demande de saisir le nom d'une catégorie.
-
-Tapez 'exit' pour quitter.
